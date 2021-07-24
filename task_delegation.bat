@@ -1,0 +1,1 @@
+@python.exe C:\Users\kevin\task_delegation.py %*
